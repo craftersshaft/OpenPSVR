@@ -3,7 +3,7 @@
 #include <openvr_driver.h>
 #include "driverlog.h"
 
-#include "OpenPSVR.h"
+#include "psvr.h"
 
 #include <thread>
 #include <mutex>
