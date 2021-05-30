@@ -1,7 +1,7 @@
 #pragma once
 #include <openvr_driver.h>
 
-#include "OpenPSVR.h"
+#include "psvr.h"
 
 #include "OpenPSVRDeviceDriver.h"
 
